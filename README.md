@@ -21,6 +21,7 @@ Today, I learned about how to disassemble and assemble back the CPU. It is my fi
 <img src="https://raw.githubusercontent.com/nrathrhabs/images/main/photo_2024-11-08_14-53-44.jpg" alt="Classroom Discussion Photo" width="300">
 
 2. Secondly, remove orange and blue wires.
+
    Then remove its power supply.
 
 <img src="https://raw.githubusercontent.com/nrathrhabs/images/main/photo_2024-11-08_14-53-45.jpg" alt="Classroom Discussion Photo" width="300">
