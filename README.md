@@ -6,14 +6,19 @@
 
 
 ## Reflection
-Today, I learned about how to disassemble assemble the CPU. It is my first time doing this and I'm kinda excited with how I successfully can disassemble the CPU and assemble it back and make it can work. I wish I can do more things like this in the future.
+Today, I learned about how to disassemble and assemble back the CPU. It is my first time doing this and I'm kinda excited with how I successfully can disassemble the CPU and assemble it back and make it can work. I wish I can do more things like this in the future.
 
 
 
 ## Images and How We Disassemble the CPU
-Firstly, we open the CPU plate.
+1. Firstly, we open the CPU plate.
 
 <img src="https://raw.githubusercontent.com/nrathrhabs/images/main/photo_2024-11-08_14-53-44.jpg" alt="Classroom Discussion Photo" width="300">
+
+2. Secondly, we remove its power supply.
+
+<img src="https://raw.githubusercontent.com/nrathrhabs/images/main/photo_2024-11-08_14-53-45.jpg" alt="Classroom Discussion Photo" width="300">
+
 
 
 
