@@ -11,7 +11,7 @@ Today, I learned about how to disassemble assemble the CPU. It is my first time 
 ---
 
 ## Images
-![Firstly, we open CPU plate](https://raw.githubusercontent.com/nrathrhabs/images/main/photo_2024-11-08_14-53-44.jpg)
+![Firstly, we open the CPU plate.](https://raw.githubusercontent.com/nrathrhabs/images/main/photo_2024-11-08_14-53-44.jpg)
 
 
 
