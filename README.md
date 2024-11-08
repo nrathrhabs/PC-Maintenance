@@ -4,8 +4,10 @@
 <span style="color:blue; font-weight:bold">📆 Day:</span> <span style="color:#4CAF50">Friday</span>
 
 
+
 ## Reflection
 Today, I learned about how to disassemble assemble the CPU. It is my first time doing this and I'm kinda excited with how I successfully can disassemble the CPU and assemble it back and make it can work. I wish I can do more things like this in the future.
+
 
 
 ## Images and How We Disassemble the CPU
